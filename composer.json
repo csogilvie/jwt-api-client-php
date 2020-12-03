@@ -1,6 +1,6 @@
 {
     "name": "bernardosilva/jwt-api-client-php",
-    "description": "API client prepared to consume API using JWT for PHP",
+    "description": "API client prepared to consume API using JWT for PHP ",
     "type": "library",
     "license": "GPL-3.0+",
     "authors": [
